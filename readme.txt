@@ -6,4 +6,7 @@ this is bb
 this is bbb;22222
 this is bbbb;
 this is bbbbb;
+
+echo this is gg update a£»
+
 ?>
