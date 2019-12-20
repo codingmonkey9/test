@@ -1,0 +1,7 @@
+{
+	"name": "bneglect/publish-test",
+	"description": "用来测试发布的扩展包，没有实际用处，只是一次练习~",
+	"require": {
+		"php": "^7.0",
+	}
+}
