@@ -2,7 +2,7 @@
 
 namespace app\dump;
 
-class Dumo
+class Dump
 {
 	public $name = 'lixiao';
 	public $age = 18;
