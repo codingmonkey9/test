@@ -1,6 +1,6 @@
 <?php
 
-namespace test;
+namespace Bneglect\Publish;
 
 // class ExtensionOfPhp
 // {

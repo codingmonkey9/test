@@ -6,8 +6,9 @@
 	},
 	"autoload": {
         "psr-4": {
-            "bneglect\\publish-test\\": "src/",
-            "test\\": "src/"
+            "Bneglect\\Publish-test\\": "src/",
+            "Test\\": "src/",
+            "app\\dump\\": "src/"
         }
     }
 }
