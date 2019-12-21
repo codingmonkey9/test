@@ -6,7 +6,7 @@
 	},
 	"autoload": {
         "psr-4": {
-            "test\\test\\": "src/"
+            "test\\test\\": "benglect/publish-test/src/"
         }
     }
 }
